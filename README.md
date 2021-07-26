@@ -1,4 +1,4 @@
-# Goodday-Client
+# Good-day-Client
 
 Client, which is the part of "Good-day" project. 
 Java, Themyleaf.
